@@ -18,4 +18,4 @@ To get a local copy up and running, follow these simple steps:
 
 - Clone the repository to your local machine.
 - Navigate to the project directory.
-- Open the index.html file in **Google Chrome**!
+- Open the `index.html` file in **Google Chrome**!
